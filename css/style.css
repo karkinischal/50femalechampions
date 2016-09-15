@@ -485,7 +485,17 @@ footer span {
     background-color: #444;
 	color: #fff;
   }
+.viewall{
+  align-self: center;
+  text-align: center;
+}
 
+.sizematters{
+  column-width: 500px;
+}
+.sizematters:hover{
+  background-color: #444;
+}
 /* media 960 */
 @media only screen and ( max-width: 980px ) {
   .navbar-default .navbar-nav li a {

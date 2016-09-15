@@ -43,7 +43,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#home" class="smoothScroll">HOME</a></li>
 				<li><a href="#about" class="smoothScroll">ABOUT</a></li>
-				<li><a href="projects.php" class="smoothScroll">PROJECTS</a></li>
+				<li><a href="#projects" class="smoothScroll">PROJECTS</a></li>
 				<li><a href="#pricing" class="smoothScroll">VIDEOS</a></li>
 				<li><a href="#contact" class="smoothScroll">CONTACT</a></li>
 			</ul>
